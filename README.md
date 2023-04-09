@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 - 💬 Ask me about **the never ending weirdness of Slovak GTFS Feeds**
 
-  - 📫 How to reach me [**meow@charliecat.space**](mailto:meow@charliecat.space)
+- 📫 How to reach me [**meow@charliecat.space**](mailto:meow@charliecat.space)
 
 - ⚡ Fun fact **I like cats**
 
