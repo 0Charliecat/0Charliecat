@@ -4,7 +4,7 @@
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="center" style="font-size: 500% !important;"> <b>Hi 👋, I'm <img src="https://www.gravatar.com/avatar/659b2058c4d9f51a8505db1e6f734a51?s=100" style="border-radius: 100%; "> @0Charliecat</b></h1>
+<h1 align="center" style="font-size: 75px !important;"> <span>Hi 👋, I'm </span> <img src="https://www.gravatar.com/avatar/659b2058c4d9f51a8505db1e6f734a51?s=100" style="border-radius: 100%; "> <span> @0Charliecat</span></h1>
 <h3 align="center">he/him • I love Javascipt. I break and make stuff, scrape the web, sleep and exist in the world.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0charliecat&label=Profile%20views&color=0e75b6&style=flat" alt="0charliecat" /> </p>
