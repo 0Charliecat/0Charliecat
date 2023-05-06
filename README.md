@@ -7,6 +7,7 @@ You can click the Preview link to take a look at your changes.
 # 👋 Heya, I'm Charlie!
 
 <b>he/him</b> • I: [`break and make stuff`, `scrape the web`, `sleep`, ... many more items ]
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=0charliecat&label=Profile%20views&color=0e75b6&style=flat" alt="0charliecat" /> </p>
 
 \* * *
 
