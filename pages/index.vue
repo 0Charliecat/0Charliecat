@@ -1,6 +1,6 @@
 <script setup>
-import head from "./components/header.vue"
-import editor from "./components/editor.vue"
+import head from "../components/header.vue"
+import editor from "../components/editor.vue"
 
 const { data, error, pending } = useFetch("https://charliecat.space/articles/index.json")
 console.log(data)
@@ -8,5 +8,5 @@ console.log(data)
 
 <template>
   <head></head>
-  <editor v-if="!pending" :editable="false" :data="data"></editor>
+  <editor :editable="false" :data="data"></editor>
 </template>

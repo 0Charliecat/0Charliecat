@@ -1,1 +1,118 @@
-{"time":1683401581558,"blocks":[{"id":"qIg56CizKi","type":"header","data":{"text":"👋 Heya, I'm Charlie!","level":2}},{"id":"bjE5hMRuNT","type":"paragraph","data":{"text":"he/him • I [ break and make stuff, scrape the web, sleep, ... many more items ]"}},{"id":"4fSvW1pZgv","type":"list","data":{"style":"unordered","items":["🔭&nbsp;I’m currently working on&nbsp;<a href=\"https://letsgo.isithere.sk\"><b>IsItHere</b></a>","🌱&nbsp;I’m currently <b>trying&nbsp;to get to a middle school</b>","💬&nbsp;Ask me about&nbsp;<b>the never ending weirdness of Slovak GTFS Feeds</b>","📫&nbsp;Reach me at&nbsp;<a href=\"mailto:meow@charliecat.space\"><b>meow@charliecat.space</b></a>","⚡&nbsp;Fun fact&nbsp;<b>I like cats</b>"]}}],"version":"2.26.5"}
+{
+    "time": 1683403969945,
+    "blocks": [{
+            "id": "mxVulSuW64",
+            "type": "image",
+            "data": {
+                "url": "https://github.com/0Charliecat/0Charliecat/raw/main/hecomminforya.webp",
+                "caption": "he commin' for ya",
+                "withBorder": true,
+                "withBackground": false,
+                "stretched": true
+            }
+        },
+        {
+            "id": "qIg56CizKi",
+            "type": "header",
+            "data": {
+                "text": "👋 Heya, I'm Charlie!",
+                "level": 1
+            }
+        },
+        {
+            "id": "bjE5hMRuNT",
+            "type": "paragraph",
+            "data": {
+                "text": "<b>he/him</b> • I: [ <code class=\"inline-code\">break and make stuff</code>, <code class=\"inline-code\">scrape the web</code>, <code class=\"inline-code\">sleep</code>, ... many more items ]"
+            }
+        },
+        {
+            "id": "Tdob-lsqpv",
+            "type": "delimiter",
+            "data": {}
+        },
+        {
+            "id": "4fSvW1pZgv",
+            "type": "list",
+            "data": {
+                "style": "unordered",
+                "items": [
+                    "🔭&nbsp;I’m currently working on&nbsp;<a href=\"https://letsgo.isithere.sk\"><b>IsItHere</b></a>",
+                    "🌱&nbsp;I’m currently <b>trying&nbsp;to get to a middle school</b>",
+                    "💬&nbsp;Ask me about&nbsp;<b>the never ending weirdness of Slovak GTFS Feeds</b>",
+                    "📫&nbsp;Reach me at&nbsp;<a href=\"mailto:meow@charliecat.space\"><b>meow@charliecat.space</b></a>",
+                    "🐈&nbsp;Fun fact&nbsp;<b>I like cats</b>"
+                ]
+            }
+        },
+        {
+            "id": "4cjKLn-1RE",
+            "type": "delimiter",
+            "data": {}
+        },
+        {
+            "id": "44QQwvHz9U",
+            "type": "linkTool",
+            "data": {
+                "link": "https://github.com/0Charliecat",
+                "meta": {
+                    "title": "0Charliecat (Charlie) · GitHub",
+                    "site_name": "Github",
+                    "description": "I love to experiment, scrape the web and procrastinate - 0Charliecat",
+                    "image": {
+                        "url": "https://avatars.githubusercontent.com/u/50016870?v=4?s=400"
+                    }
+                }
+            }
+        },
+        {
+            "id": "efiySCYP0I",
+            "type": "delimiter",
+            "data": {}
+        },
+        {
+            "id": "RGtbJUdg72",
+            "type": "header",
+            "data": {
+                "text": "Some of my Packages",
+                "level": 2
+            }
+        },
+        {
+            "id": "aFUH_6hpO7",
+            "type": "linkTool",
+            "data": {
+                "link": "https://npmjs.com/package/capacitor-installed-via-altstore",
+                "meta": {
+                    "title": "capacitor-installed-via-altstore · npm",
+                    "site_name": "NPM",
+                    "description": "A simple plugin to know if Capacitor.js App was installed via AltStore.",
+                    "image": {
+                        "url": "https://static.npmjs.com/338e4905a2684ca96e08c7780fc68412.png"
+                    }
+                }
+            }
+        },
+        {
+            "id": "aFUH_6fpO7",
+            "type": "linkTool",
+            "data": {
+                "link": "https://npmjs.com/package/bratislava-transit",
+                "meta": {
+                    "title": "bratislava-transit · npm",
+                    "site_name": "NPM",
+                    "description": "A wrapper for Bratislava OpenData API /mhd/ section",
+                    "image": {
+                        "url": "https://static.npmjs.com/338e4905a2684ca96e08c7780fc68412.png"
+                    }
+                }
+            }
+        },
+        {
+            "id": "abdxBkR9AQ",
+            "type": "delimiter",
+            "data": {}
+        }
+    ],
+    "version": "2.26.5"
+}

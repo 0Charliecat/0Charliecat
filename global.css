@@ -1,0 +1,56 @@
+:root {
+    --color-black: #282c34;
+    --color-white: #abb2bf;
+    --color-light-red: #e06c75;
+    --color-dark-red: #be5046;
+    --color-green: #98c379;
+    --color-light-yellow: #e5c07b;
+    --color-dark-yellow: #d19a66;
+    --color-blue: #61afef;
+    --color-magenta: #c678dd;
+    --color-cyan: #56b6c2;
+    --color-gutter-grey: #4b5263;
+    --color-comment-grey: #5c6370;
+  
+    --color-text-main: var(--color-white);
+    --color-text-secondary: var(--color-comment-grey);
+    --color-bg-main: var(--color-black);
+    --color-border-light: transparent;
+}
+
+body {
+    font-family: SFMono-Regular, Menlo, Monaco,
+        Consolas, "Liberation Mono",
+        "Courier New", monospace;
+    max-width: 900px;
+    background: var(--color-bg-main);
+    color: var(--color-text-main);
+}
+
+a { /* same colors for regular links */
+    color: var(--color-green);
+}
+
+/*
+ * Editor.js elements
+ */
+.inline-code {
+    background: var(--color-gutter-grey);
+    color: var(--color-light-red);
+}
+.ce-delimiter:before { /* The *** Element */
+    color: var(--color-dark-yellow);
+}
+.link-tool__content--rendered { /* link card */
+    background: var(--color-gutter-grey) !important;
+    color: var(--color-text-main) !important;
+}
+.link-tool__description { /* Link Card Description */
+    color: var(--color-text-main) !important;
+}
+.link-tool__title { /* Link Card Title */
+    color: var(--color-text-main) !important;
+}
+span.link-tool__anchor { /* Link Card Domain */
+    color: #98C379 !important;
+}
