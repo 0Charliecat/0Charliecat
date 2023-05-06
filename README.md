@@ -3,7 +3,35 @@
 0Charliecat/0Charliecat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![he commin' for ya](https://github.com/0Charliecat/0Charliecat/raw/main/hecomminforya.webp)
+# 👋 Heya, I'm Charlie!
 
+<b>he/him</b> • I: [`break and make stuff`, `scrape the web`, `sleep`, ... many more items ]
+
+\* * *
+
+- 🔭&nbsp;I’m currently working on&nbsp;[IsItHere](https://letsgo.isithere.sk)
+- 🌱&nbsp;I’m currently <b>trying&nbsp;to get to a middle school</b>
+- 💬&nbsp;Ask me about&nbsp;the never ending weirdness of Slovak GTFS Feeds
+- 📫&nbsp;Reach me at&nbsp;[meow@charliecat.space](mailto:meow@charliecat.space)
+- 🐈&nbsp;Fun fact&nbsp;I like cats
+
+\* * *
+
+> `github.com` • [0Charliecat (Charlie) · GitHub](https://github.com/0Charliecat)
+> ― I love to experiment, scrape the web and procrastinate
+
+\* * *
+
+## Some of my Packages
+
+> `npmjs.com` • [capacitor-installed-via-altstore · npm](https://npmjs.com/package/capacitor-installed-via-altstore)
+> ― A simple plugin to know if Capacitor.js App was installed via AltStore.
+
+> `npmjs.com` • [bratislava-transit · npm](https://npmjs.com/package/bratislava-transit)
+> ― A wrapper for Bratislava OpenData API /mhd/ section
+
+<!--
 <h1 align="center" style="font-size: clamp(60px, 70px, 100px) !important;">Hi 👋, I'm <br> <img src="https://www.gravatar.com/avatar/659b2058c4d9f51a8505db1e6f734a51?s=150" style="border-radius: 100%; "> <br> <span style="font-size: 70px !important;">@0Charliecat</span></h1>
 <h3 align="center">he/him • I love Javascipt. I break and make stuff, scrape the web, sleep and exist in the world.</h3>
 
@@ -31,3 +59,4 @@ You can click the Preview link to take a look at your changes.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0charliecat&" alt="0charliecat" /></p>
 
+-->
