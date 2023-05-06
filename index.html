@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@0CharlieCat</title>
+    <link rel="icon" href="https://www.gravatar.com/avatar/659b2058c4d9f51a8505db1e6f734a51?s=150">
+
+    <meta name="title" content="@0Charliecat">
+    <meta name="description" content="he/him • I break and make stuff, scrape the web, sleep, and many other things">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://charliecat.space/">
+    <meta property="og:title" content="@0Charliecat">
+    <meta property="og:description" content="he/him • I break and make stuff, scrape the web, sleep, and many other things">
+    <meta property="og:image" content="https://www.gravatar.com/avatar/659b2058c4d9f51a8505db1e6f734a51?s=1024">
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://charliecat.space/">
+    <meta property="twitter:title" content="@0Charliecat">
+    <meta property="twitter:description" content="he/him • I break and make stuff, scrape the web, sleep, and many other things">
+    <meta property="twitter:image" content="https://github.com/0Charliecat/0Charliecat/raw/main/hecomminforya.webp">
+
+    <script src="https://cdn.jsdelivr.net/npm/@editorjs/header@latest"></script><!-- Header -->
+    <script src="https://cdn.jsdelivr.net/npm/@editorjs/simple-image@latest"></script><!-- Image -->
+    <script src="https://cdn.jsdelivr.net/npm/@editorjs/delimiter@latest"></script><!-- Delimiter -->
+    <script src="https://cdn.jsdelivr.net/npm/@editorjs/list@latest"></script><!-- List -->
+    <script src="https://cdn.jsdelivr.net/npm/@editorjs/link@latest"></script><!-- Link -->
+    <script src="https://cdn.jsdelivr.net/npm/@editorjs/inline-code@latest"></script><!-- Inline Code -->
+
+    <!-- Load Editor.js's Core -->
+    <script src="https://cdn.jsdelivr.net/npm/@editorjs/editorjs@latest"></script>
+
+    <style>
+        :root {
+            --color-bg-main: #282C34;
+            --color-border-light: #333842;
+            --color-text-main: #ABB2BF;
+        }
+
+
+        body {
+            font-family: SFMono-Regular, Menlo, Monaco,
+                Consolas, "Liberation Mono",
+                "Courier New", monospace;
+            font-size: 14px;
+            line-height: 1.5em;
+            margin: auto;
+            max-width: 900px;
+            background: var(--color-bg-main);
+            color: var(--color-text-main);
+        }
+
+        header.head {
+            top: 0;
+            height: 2.5em;
+            padding-top: 1px;
+            padding-left: 1.5em;
+            padding-bottom: 2em;
+            /*border-bottom: 2px solid #E5E5E7;*/
+            margin-bottom: 3px;
+            position: sticky !important;
+            z-index: 100;
+            background-color: #282C3433;
+            backdrop-filter: blur(10px);
+            -webkit-backdrop-filter: blur(10px);
+            /*border-radius: 0 0 20px 20px;*/
+        }
+
+        a {
+            color: #98C379;
+        }
+
+        .inline-code {
+            background: var(--color-border-light);
+            color: #DD6B74;
+        }
+
+        .ce-delimiter:before {
+            color: #C39162;
+        }
+
+        .link-tool__content--rendered {
+            background: var(--color-border-light);
+            color: var(--color-text-main) !important;
+        }
+
+        .link-tool__anchor {
+            color: #98C379 !important;
+        }
+    </style>
+
+</head>
+
+<body>
+    <header class="head">
+        <h1><img src="https://www.gravatar.com/avatar/659b2058c4d9f51a8505db1e6f734a51?s=100"
+                style="border-radius: 100%; height: 1.2em; margin-bottom: -5px;"> @0Charliecat </h1>
+    </header>
+    <div id="editorjs"></div>
+
+    <script>
+        /**
+         * To initialize the Editor, create a new instance with configuration object
+         * @see docs/installation.md for mode details
+         */
+        var editor = new EditorJS({
+            /**
+             * Enable/Disable the read only mode
+             */
+            readOnly: true,
+
+            /**
+             * Wrapper of Editor
+             */
+            holder: 'editorjs',
+
+            /**
+             * Tools list
+             */
+            tools: {
+                header: Header,
+                image: SimpleImage,
+                list: List,
+                delimiter: Delimiter,
+                inlineCode: InlineCode,
+                linkTool: LinkTool,
+            },
+
+            /**
+             * Editor data
+             */
+            data: {
+                "time": 1683403969945,
+                "blocks": [{
+                        "id": "mxVulSuW64",
+                        "type": "image",
+                        "data": {
+                            "url": "https://github.com/0Charliecat/0Charliecat/raw/main/hecomminforya.webp",
+                            "caption": "he commin' for ya",
+                            "withBorder": true,
+                            "withBackground": false,
+                            "stretched": true
+                        }
+                    },
+                    {
+                        "id": "qIg56CizKi",
+                        "type": "header",
+                        "data": {
+                            "text": "👋 Heya, I'm Charlie!",
+                            "level": 1
+                        }
+                    },
+                    {
+                        "id": "bjE5hMRuNT",
+                        "type": "paragraph",
+                        "data": {
+                            "text": "<b>he/him</b> • I: [ <code class=\"inline-code\">break and make stuff</code>, <code class=\"inline-code\">scrape the web</code>, <code class=\"inline-code\">sleep</code>, ... many more items ]"
+                        }
+                    },
+                    {
+                        "id": "Tdob-lsqpv",
+                        "type": "delimiter",
+                        "data": {}
+                    },
+                    {
+                        "id": "4fSvW1pZgv",
+                        "type": "list",
+                        "data": {
+                            "style": "unordered",
+                            "items": [
+                                "🔭&nbsp;I’m currently working on&nbsp;<a href=\"https://letsgo.isithere.sk\"><b>IsItHere</b></a>",
+                                "🌱&nbsp;I’m currently <b>trying&nbsp;to get to a middle school</b>",
+                                "💬&nbsp;Ask me about&nbsp;<b>the never ending weirdness of Slovak GTFS Feeds</b>",
+                                "📫&nbsp;Reach me at&nbsp;<a href=\"mailto:meow@charliecat.space\"><b>meow@charliecat.space</b></a>",
+                                "🐈&nbsp;Fun fact&nbsp;<b>I like cats</b>"
+                            ]
+                        }
+                    },
+                    {
+                        "id": "4cjKLn-1RE",
+                        "type": "delimiter",
+                        "data": {}
+                    },
+                    {
+                        "id": "44QQwvHz9U",
+                        "type": "linkTool",
+                        "data": {
+                            "link": "https://github.com/0Charliecat",
+                            "meta": {
+                                "title": "0Charliecat (Charlie) · GitHub",
+                                "site_name": "Github",
+                                "description": "I love to experiment, scrape the web and procrastinate - 0Charliecat",
+                                "image": {
+                                    "url": "https://avatars.githubusercontent.com/u/50016870?v=4?s=400"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "efiySCYP0I",
+                        "type": "delimiter",
+                        "data": {}
+                    },
+                    {
+                        "id": "RGtbJUdg72",
+                        "type": "header",
+                        "data": {
+                            "text": "Some of my Packages",
+                            "level": 2
+                        }
+                    },
+                    {
+                        "id": "aFUH_6hpO7",
+                        "type": "linkTool",
+                        "data": {
+                            "link": "https://npmjs.com/package/capacitor-installed-via-altstore",
+                            "meta": {
+                                "title": "capacitor-installed-via-altstore · npm",
+                                "site_name": "NPM",
+                                "description": "A simple plugin to know if Capacitor.js App was installed via AltStore.",
+                                "image": {
+                                    "url": "https://static.npmjs.com/338e4905a2684ca96e08c7780fc68412.png"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "aFUH_6fpO7",
+                        "type": "linkTool",
+                        "data": {
+                            "link": "https://npmjs.com/package/bratislava-transit",
+                            "meta": {
+                                "title": "bratislava-transit · npm",
+                                "site_name": "NPM",
+                                "description": "A wrapper for Bratislava OpenData API /mhd/ section",
+                                "image": {
+                                    "url": "https://static.npmjs.com/338e4905a2684ca96e08c7780fc68412.png"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "abdxBkR9AQ",
+                        "type": "delimiter",
+                        "data": {}
+                    },
+                    /*{
+                        "id": "mxVulSuW64",
+                        "type": "image",
+                        "data": {
+                            "url": "https://github-readme-stats.vercel.app/api?username=0charliecat&amp;show_icons=true&amp;locale=en&amp;count_private=true",
+                            "caption": "Github Stats from&nbsp;github-readme-stats.vercel.app",
+                            "withBorder": false,
+                            "withBackground": false,
+                            "stretched": false
+                        }
+                    }*/
+                ],
+                "version": "2.26.5"
+            },
+        });
+    </script>
+
+</body>
+
+</html>
