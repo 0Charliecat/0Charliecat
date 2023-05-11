@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 \* * *
 
 - 🔭&nbsp;I’m currently working on&nbsp;[IsItHere](https://letsgo.isithere.sk)
-- 🌱&nbsp;I’m currently <b>trying&nbsp;to get to a middle school</b>
+- 🌱&nbsp;I’m currently <b>getting to a middle school</b>
 - 💬&nbsp;Ask me about&nbsp;the never ending weirdness of Slovak GTFS Feeds
 - 📫&nbsp;Reach me at&nbsp;[meow@charliecat.space](mailto:meow@charliecat.space)
 - 🐈&nbsp;Fun fact&nbsp;I like cats
