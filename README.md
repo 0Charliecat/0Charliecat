@@ -32,6 +32,9 @@ You can click the Preview link to take a look at your changes.
 > `npmjs.com` • [bratislava-transit · npm](https://npmjs.com/package/bratislava-transit)
 > ― A wrapper for Bratislava OpenData API /mhd/ section
 
+\* * *
+## My Wakatime
+![Wakapi @ wakapi.jopga.me](https://wakapi.jopga.me/api/activity/chart/0charliecat.svg)
 <!--
 <h1 align="center" style="font-size: clamp(60px, 70px, 100px) !important;">Hi 👋, I'm <br> <img src="https://www.gravatar.com/avatar/659b2058c4d9f51a8505db1e6f734a51?s=150" style="border-radius: 100%; "> <br> <span style="font-size: 70px !important;">@0Charliecat</span></h1>
 <h3 align="center">he/him • I love Javascipt. I break and make stuff, scrape the web, sleep and exist in the world.</h3>
