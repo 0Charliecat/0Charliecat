@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 \* * *
 
-- 🔭&nbsp;I’m currently working on throwing your paper business card to the trash @benly00, and as a Full-Stacker + Tech Lead @wezeo
+- 🔭&nbsp;I’m currently working on throwing your paper business card to the trash @benly00, and as a Full-Stacker @wezeo
 - 🌱&nbsp;I’m currently <b>in high school</b>
 - 💬&nbsp;Ask me about&nbsp;the never ending weirdness of Slovak GTFS Feeds
 - 📫&nbsp;Reach me at&nbsp;[meow@charliecat.space](mailto:meow@charliecat.space)
